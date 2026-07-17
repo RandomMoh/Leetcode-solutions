@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [3583-sorted-gcd-pair-queries](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [3583-sorted-gcd-pair-queries](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [3583-sorted-gcd-pair-queries](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
 ## Linked List
 |  |
 | ------- |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [3583-sorted-gcd-pair-queries](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
 ## Quickselect
 |  |
 | ------- |
@@ -77,8 +81,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [3583-sorted-gcd-pair-queries](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [3583-sorted-gcd-pair-queries](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
+## Combinatorics
+|  |
+| ------- |
+| [3583-sorted-gcd-pair-queries](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
+## Number Theory
+|  |
+| ------- |
+| [3583-sorted-gcd-pair-queries](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
