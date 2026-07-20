@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1386-shift-2d-grid](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1386-shift-2d-grid) |
 | [3583-sorted-gcd-pair-queries](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
@@ -123,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [1386-shift-2d-grid](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1386-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1386-shift-2d-grid](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1386-shift-2d-grid) |
 <!---LeetCode Topics End-->
