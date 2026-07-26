@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0883-car-fleet) |
@@ -45,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0883-car-fleet](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0883-car-fleet) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0628-maximum-product-of-three-numbers](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3583-sorted-gcd-pair-queries](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
 ## Linked List
 |  |
