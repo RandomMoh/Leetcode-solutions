@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1023-time-based-key-value-store](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 | [3583-sorted-gcd-pair-queries](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
+| [3813-smallest-palindromic-rearrangement-ii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3583-sorted-gcd-pair-queries](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
+| [3813-smallest-palindromic-rearrangement-ii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1023-time-based-key-value-store](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1023-time-based-key-value-store) |
+| [3813-smallest-palindromic-rearrangement-ii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [3583-sorted-gcd-pair-queries](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
+| [3813-smallest-palindromic-rearrangement-ii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3583-sorted-gcd-pair-queries](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
+| [3813-smallest-palindromic-rearrangement-ii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Number Theory
 |  |
 | ------- |
