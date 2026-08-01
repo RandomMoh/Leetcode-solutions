@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0486-predict-the-winner](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0792-binary-search) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0486-predict-the-winner](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3583-sorted-gcd-pair-queries](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -187,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0155-min-stack) |
 | [1023-time-based-key-value-store](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1023-time-based-key-value-store) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
