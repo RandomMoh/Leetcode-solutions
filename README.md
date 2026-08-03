@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1386-shift-2d-grid](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1386-shift-2d-grid) |
+| [1522-stone-game-iii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1522-stone-game-iii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0486-predict-the-winner](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1522-stone-game-iii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1522-stone-game-iii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Linked List
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [1522-stone-game-iii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1522-stone-game-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -199,4 +202,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [1522-stone-game-iii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1522-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1522-stone-game-iii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1522-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1522-stone-game-iii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1522-stone-game-iii) |
 <!---LeetCode Topics End-->
