@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1522-stone-game-iii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1522-stone-game-iii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Linked List
 |  |
@@ -222,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Enumeration
+|  |
+| ------- |
+| [3626-smallest-divisible-digit-product-i](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3626-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
