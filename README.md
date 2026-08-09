@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
+| [1240-stone-game-ii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1386-shift-2d-grid](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1386-shift-2d-grid) |
 | [1522-stone-game-iii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1522-stone-game-iii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0486-predict-the-winner](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1240-stone-game-ii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1522-stone-game-iii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3626-smallest-divisible-digit-product-i) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [1240-stone-game-ii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
 ## Union-Find
 |  |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [1240-stone-game-ii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1522-stone-game-iii) |
 ## Monotonic Stack
 |  |
@@ -218,14 +222,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [1240-stone-game-ii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1522-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1522-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1522-stone-game-iii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
