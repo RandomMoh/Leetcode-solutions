@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1240-stone-game-ii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1617-stone-game-iv) |
 | [3583-sorted-gcd-pair-queries](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1240-stone-game-ii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1617-stone-game-iv) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -224,16 +226,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1240-stone-game-ii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1617-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1617-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1617-stone-game-iv) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -251,4 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Nim Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1617-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
