@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1386-shift-2d-grid](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1386-shift-2d-grid) |
 | [1522-stone-game-iii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1522-stone-game-iii) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/RandomMoh/Leetcode-solutions/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3583-sorted-gcd-pair-queries](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/RandomMoh/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1023-time-based-key-value-store](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1023-time-based-key-value-store) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/RandomMoh/Leetcode-solutions/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/RandomMoh/Leetcode-solutions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Divide and Conquer
 |  |
@@ -264,4 +266,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/RandomMoh/Leetcode-solutions/tree/master/1617-stone-game-iv) |
+## Segment Tree
+|  |
+| ------- |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/RandomMoh/Leetcode-solutions/tree/master/2319-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/RandomMoh/Leetcode-solutions/tree/master/2319-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
